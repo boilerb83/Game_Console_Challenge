@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{65560D06-EF20-4806-92D1-6B7CAD598461}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF3E2D7C-A927-498C-A6AF-0E5768CB63C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiger_Repo", "Tiger\Tiger_Repo.csproj", "{01960E35-D5E7-4286-AC7F-F6198E942348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65560D06-EF20-4806-92D1-6B7CAD598461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65560D06-EF20-4806-92D1-6B7CAD598461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65560D06-EF20-4806-92D1-6B7CAD598461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65560D06-EF20-4806-92D1-6B7CAD598461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01960E35-D5E7-4286-AC7F-F6198E942348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01960E35-D5E7-4286-AC7F-F6198E942348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01960E35-D5E7-4286-AC7F-F6198E942348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01960E35-D5E7-4286-AC7F-F6198E942348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FE2064-0F1E-4643-B733-106D5F2E2374}
+	EndGlobalSection
+EndGlobal

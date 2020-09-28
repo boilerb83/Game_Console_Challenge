@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\bin\Debug\Game.exe.config
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\bin\Debug\Game.exe
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\bin\Debug\Game.pdb
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\obj\Debug\Game.exe
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\obj\Debug\Game.pdb
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\bin\Debug\Tiger.dll
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\bin\Debug\Tiger.pdb
+C:\ElevenFiftyProjects\GoldBadge\Challenge\Game Console App\Game\Game\obj\Debug\Game.csproj.CopyComplete
